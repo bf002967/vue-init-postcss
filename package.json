@@ -65,6 +65,7 @@
     "postcss-crip": "^2.0.0",
     "postcss-each": "^0.9.3",
     "postcss-for": "^2.1.1",
+    "postcss-import": "^11.0.0",
     "postcss-media-minmax": "^2.1.2",
     "postcss-mixins": "^5.2.0",
     "postcss-nested": "^1.0.0",
